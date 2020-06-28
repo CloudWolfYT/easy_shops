@@ -1,0 +1,1 @@
+give @p minecraft:birch_sign{BlockEntityTag:{Text1:"{\"text\":\"\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function cw_cs:admin_shop/buy\"}}",Text2:"{\"text\":\"> Buy <\",\"color\":\"dark_aqua\"}"},display:{Name:"{\"text\":\"Sign A\"}"}}

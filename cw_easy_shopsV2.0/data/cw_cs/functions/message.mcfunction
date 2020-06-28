@@ -1,0 +1,1 @@
+tellraw @a[gamemode=creative] {"text":"[ Easy Shops V2.0] \u27a4","color":"aqua","clickEvent":{"action":"run_command","value":"/function cw_cs:menu"},"hoverEvent":{"action":"show_text","value":"Make villager and sign shops using shulker boxes!"}}
